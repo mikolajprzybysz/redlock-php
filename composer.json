@@ -1,6 +1,7 @@
 {
     "name": "mikolajprzybysz/redlock-php",
     "description": "Redis distributed locks in PHP",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Ronny Lopez",
