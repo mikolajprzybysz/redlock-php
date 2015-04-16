@@ -1,10 +1,14 @@
 {
-    "name": "ronnylt/redlock-php",
+    "name": "mikolajprzybysz/redlock-php",
     "description": "Redis distributed locks in PHP",
     "authors": [
         {
             "name": "Ronny Lopez",
             "email": "ronny@tangotree.io"
+        },
+        {
+          "name": "Mikolaj Przybysz",
+          "email": "mikolaj.przybysz@gmail.com"
         }
     ],
     "require": {
